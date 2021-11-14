@@ -1,10 +1,10 @@
 # anime_project
 
-A new Flutter project.
+CHATKIAT 07610409
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+PROJECT MOBILE 1/2564
 
 A few resources to get you started if this is your first Flutter project:
 
